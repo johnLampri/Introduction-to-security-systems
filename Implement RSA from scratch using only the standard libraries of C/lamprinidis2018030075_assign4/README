@@ -1,0 +1,21 @@
+----------------------------ASSIGNMENT 4--------------------------------------
+All the functions have been tested and seem to work correctly.
+TASK A
+Using the sieve of Eratosthenes a key was generated following the steps of 
+the RSA cryptographic algorithm.
+
+TASK B
+Following the steps of the algorithm the input file is encrypted and then
+stored in an output file. The size is generated correctly.
+
+TASK C
+Following the steps of the algorithm the input file is decrypted and then
+stored in an output file. The size is generated correctly.
+
+TASK D
+Every file ssems to have been generated correctly.
+
+
+
+gcc (Ubuntu 9.3.0-17ubuntu1~20.04) 9.3.0
+

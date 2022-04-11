@@ -1,0 +1,18 @@
+char* getRandomKey(int , char* );
+char*  OTPEncrypt(char* ,char* ,char * );
+char*  OTPDecrypt(char* ,char* ,char *);
+char*  CaesarsEncrypt(int ,char* ,char * );
+char * CaesarsDecrypt(int ,char* , char * );
+char CapsCheckEncrypt(char ,int* );
+char numericalCheckEncrypt(char ,int* );
+char notCapsCheckEncrypt(char ,int* );
+char numericalCheckDecrypt(char ,int* );
+char notCapsCheckDecrypt(char ,int* );
+char CapsCheckDecrypt(char ,int* );
+char CapsCheckEncryptVigenere(char ,int* );
+char CapsCheckDecryptVigenere(char ,int* );
+void ViginereCipherEncrypt(char* , char* ,char* );
+void ViginereCipherDecrypt(char* , char* ,char* );
+void OTP();
+void Caesars();
+void Vigenere();
